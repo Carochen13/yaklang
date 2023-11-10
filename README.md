@@ -23,8 +23,9 @@
 </p>
 
 <p align="center">
-  :book:  <a href="https://github.com/yaklang/yaklang/blob/main/README—_EN.md">English</a> •
-  <a href="https://github.com/yaklang/yaklang/blob/main/README.md">中文</a> •
+ README :book:  <a href="https://github.com/yaklang/yaklang/blob/main/README—_EN.md">English</a> •
+  
+  <a href="https://github.com/yaklang/yaklang/blob/main/README.md">中文</a> 
 </p>
 
 ---
