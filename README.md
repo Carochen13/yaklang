@@ -163,7 +163,6 @@ powershell (new-object System.Net.WebClient).DownloadFile('https://yaklang.oss-c
 5. Google Ins, "gRPC", https://grpc.io/, 2020.
 6. Microsoft Ins, "Monaco Editor", https://microsoft.github.io/monaco-editor/, 2020.
 
-## Star History
 
 ## Star History
 
