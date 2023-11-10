@@ -37,15 +37,16 @@ Yaklang 团队综合“领域限定语言”的思想，构建了CDSL的概念�
 Yak 是一门针对网络安全领域研发的易书写，易分发的高级计算机编程语言。Yak具备强类型、动态类型的经典类型特征，兼具编译字节码和解释执行的运行时特征。
 
 Yak语言的运行时环境只依赖于YakVM，可以实现“一次编写，处处运行”的特性，只要有YakVM部署的环境，都可以快速执行Yak语言程序。
+
 <h3 align="center">
-  <img src="imgs/yaklang-cdsl.png" style="width: 800px" div align="center" ></a>
+  <img src="imgs/yaklang-cdsl.png" style="width: 800px" alt="yaklang-cdsl.png" ></a>
 </h3>
+
 Yak语言起初只作为一个“嵌入式语言”在宿主程序中存在，后在电子科技大学网络空间安全学院学术指导下，由 Yaklang.io 研发团队进行长达两年的迭代与改造，实现了YakVM虚拟机让语言可以脱离“宿主语言”独立运行，并与2023年完全开源。 支持目前主流操作系统：macOS，Linux，Windows。
 
 
 ## Yaklang 的优势
-<table>
-<tr>
+
 基于CDSL概念构建的网络安全领域编程语言Yak，具备了几乎DSL所有的优势，它被设计为针对安全能力研发领域的专用编程语言，实现了常见的大多数安全能力，可以让各种各样的安全能力彼此之间“互补，融合，进化”；提高安全从业人员的生产力。
 
 CDSL在网络安全领域提供的能力具备很多优势：
@@ -64,9 +65,8 @@ CDSL在网络安全领域提供的能力具备很多优势：
 3. 网络安全领域的加解密库
 
 4. 支持中国商用密码体系：支持SM2椭圆曲线公钥密码算法，SM4分组密码算法，SM3密码杂凑算法等
-<tr>
-<table>
-## 项目架构 / Project Architecture
+
+## 项目架构 
 
 ![yaklang-architecture](imgs/yaklang-arch.jpg)
 
