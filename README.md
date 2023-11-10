@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://yaklang.io/"><img src="imgs/yaklang-logo.png" style="width: 400px"/></a> />
- <h2 align="center">CDSL-Yak</h2>
+ <h2 align="center">CDSL-YAK</h2>
  <p align="center">为网络安全而生的领域编程语言</p>
 
 <p align="center">
