@@ -45,12 +45,9 @@ Yak语言的运行时环境只依赖于YakVM，可以实现“一次编写，处
 Yak语言起初只作为一个“嵌入式语言”在宿主程序中存在，后在电子科技大学网络空间安全学院学术指导下，由 Yaklang.io 研发团队进行长达两年的迭代与改造，实现了YakVM虚拟机让语言可以脱离“宿主语言”独立运行，并与2023年完全开源。 支持目前主流操作系统：macOS，Linux，Windows。
 
 
-## Yaklang 的优势 
-
+## Yaklang 的优势
 <table>
 <tr>
-<td> 
-
 基于CDSL概念构建的网络安全领域编程语言Yak，具备了几乎DSL所有的优势，它被设计为针对安全能力研发领域的专用编程语言，实现了常见的大多数安全能力，可以让各种各样的安全能力彼此之间“互补，融合，进化”；提高安全从业人员的生产力。
 
 CDSL在网络安全领域提供的能力具备很多优势：
@@ -69,14 +66,15 @@ CDSL在网络安全领域提供的能力具备很多优势：
 3. 网络安全领域的加解密库
 
 4. 支持中国商用密码体系：支持SM2椭圆曲线公钥密码算法，SM4分组密码算法，SM3密码杂凑算法等
-
+<tr>
+<table>
 ## 项目架构 / Project Architecture
 
 ![yaklang-architecture](imgs/yaklang-arch.jpg)
 
 ## 快速开始
 
-### 通过 Yakit 来使用 Yaklang 
+### 通过 Yakit 来使用 Yaklang
 
 Yakit (https://github.com/yaklang/yakit) 是 Yaklang.io 团队官方出品的开源 Yaklang IDE，它可以帮助你快速上手 Yaklang 语言。
 
@@ -101,7 +99,7 @@ bash <(curl -sS -L http://oss.yaklang.io/install-latest-yak.sh)
 powershell (new-object System.Net.WebClient).DownloadFile('https://yaklang.oss-cn-beijing.aliyuncs.com/yak/latest/yak_windows_amd64.exe','yak_windows_amd64.exe') && yak_windows_amd64.exe install && del /f yak_windows_amd64.exe
 ```
 
-## 社区 
+## 社区
 
 1. 你可以在 yaklang 或者 yakit 的 issues 中添加你想讨论的内容或者你想表达的东西，英文或中文均可，我们会尽快回复
 2. 国内用户可以使用 WeChat 加入群组
@@ -131,7 +129,7 @@ powershell (new-object System.Net.WebClient).DownloadFile('https://yaklang.oss-c
 6. [naiquan](https://github.com/naiquann)
 7. [Rookie-is](https://github.com/Rookie-is)
 
-## 开源许可证 
+## 开源许可证
 
 本仓库代码版本使用 AGPL 开源协议，这是一个严格的开源协议，且具有传染性，如果您使用了本仓库的代码，那么您的代码也必须开源。
 
@@ -148,15 +146,15 @@ This project is academically guided by Professor Zhang Xiaosong ([scse.uestc.edu
 
 <img src="imgs/lab-logo.png" style="width: 180px"/>
 
-### 基础理论学科 
+### 基础理论学科
 
 1. Alonzo Church, "A set of postulates for the foundation of logic", Annals of Mathematics, 33(2), 346-366, 1932.
 2. Dana Scott, Christopher Strachey, "Toward a mathematical semantics for computer languages", Proceedings of the Symposium on Computers and Automata, Microwave Research Institute Symposia Series Vol. 21, New York, 1971.
 3. Henk Barendregt, Wil Dekkers, Richard Statman, lambda Calculus with Types, Perspectives in Logic. Cambridge University Press, 2013.
 
-### 工程技术 
+### 工程技术
 
-1. Terence Parr, "The Definitive ANTLR 4 Reference", Pragmatic Bookshelf, 2013. 
+1. Terence Parr, "The Definitive ANTLR 4 Reference", Pragmatic Bookshelf, 2013.
 2. Terence Parr, "Simplifying Complex Networks Using Temporal Pattern Mining: The Case of AT&T's Observed Data Network", Dissertation, 1995.
 3. Terence Parr, Russell Quong, "ANTLR: A Predicated-LL(k) Parser Generator", Journal of Software Practice and Experience, July 1995.
 4. Google Ins, "Protocol Buffers", https://developers.google.com/protocol-buffers, 2020.
