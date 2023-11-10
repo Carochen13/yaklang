@@ -38,9 +38,7 @@ Yak 是一门针对网络安全领域研发的易书写，易分发的高级计�
 
 Yak语言的运行时环境只依赖于YakVM，可以实现“一次编写，处处运行”的特性，只要有YakVM部署的环境，都可以快速执行Yak语言程序。
 
-<h2 align="center">
-  <img src="imgs/yaklang-cdsl.png" style="width: 400px" width="400px"></a>
-</h2>
+  <img src="imgs/yaklang-cdsl.png" style="width: 500px" width="400px"></a>
 
 Yak语言起初只作为一个“嵌入式语言”在宿主程序中存在，后在电子科技大学网络空间安全学院学术指导下，由 Yaklang.io 研发团队进行长达两年的迭代与改造，实现了YakVM虚拟机让语言可以脱离“宿主语言”独立运行，并与2023年完全开源。 支持目前主流操作系统：macOS，Linux，Windows。
 
