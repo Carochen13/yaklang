@@ -82,7 +82,7 @@ Yakit (https://github.com/yaklang/yakit) 是 Yaklang.io 团队官方出品的开
 
 同时 Yakit 也能将绝大部分安全工程师需要的核心功能图形化。他是免费的，你可以通过 [下载安装 Yakit](https://www.yaklang.com/products/download_and_install)，来开始使用 Yaklang。
 
-关于Yakit的更多内容：
+关于Yakit的更多内容可移步：官方文档
 
 
 ### 通过命令行来安装使用
@@ -107,7 +107,7 @@ powershell (new-object System.Net.WebClient).DownloadFile('https://yaklang.oss-c
 2. 国内用户可以使用 WeChat 加入群组
 3. 国际用户可以使用 Discord 加入社区
 
-## 贡献你的代码 / Contribute your code
+## 贡献你的代码 
 
 这是一个高级话题，在贡献你的代码之前，确保你对 Yaklang 整个项目结构有所了解。
 
@@ -115,7 +115,7 @@ powershell (new-object System.Net.WebClient).DownloadFile('https://yaklang.oss-c
 
 如果您仅仅想要增加库的功能，或者修复一些库的 Bug，那么您可以直接提交 PR，当然 PR 中最好包含对应的单元测试，这很有助于提升我们的代码质量。
 
-## 项目成员 / Project Members
+## 项目成员 
 
 ### Maintainer
 
@@ -162,3 +162,8 @@ This project is academically guided by Professor Zhang Xiaosong ([scse.uestc.edu
 4. Google Ins, "Protocol Buffers", https://developers.google.com/protocol-buffers, 2020.
 5. Google Ins, "gRPC", https://grpc.io/, 2020.
 6. Microsoft Ins, "Monaco Editor", https://microsoft.github.io/monaco-editor/, 2020.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=yaklang/yakit&type=Date)](https://star-history.com/#yaklang/yakit&Date)
+
