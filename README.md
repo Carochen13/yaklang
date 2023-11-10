@@ -1,10 +1,8 @@
-<h1 align="center">
-  <br>
-  <a href="https://yaklang.io/"><img src="imgs/yaklang-logo.png" style="width: 400px"/></a>
-</h1>
 
-<h2 align="center">为网络安全而生的领域编程语言</h2>
-
+<p align="center">
+  <a href="https://yaklang.io/"><img src="imgs/yaklang-logo.png" style="width: 400px"/></a> />
+ <h2 align="center">CDSL-Yak</h2>
+ <p align="center">为网络安全而生的领域编程语言</p>
 
 <p align="center">
 <img src="https://img.shields.io/github/issues-pr/yaklang/yaklang">
@@ -42,10 +40,18 @@ Yak 是一门针对网络安全领域研发的易书写，易分发的高级计�
 
 Yak语言的运行时环境只依赖于YakVM，可以实现“一次编写，处处运行”的特性，只要有YakVM部署的环境，都可以快速执行Yak语言程序。
 
+<h2 align="center">
+  <img src="imgs/yaklang-cdsl.png" style="width: 400px" width="1080px"></a>
+</h2>
+
 Yak语言起初只作为一个“嵌入式语言”在宿主程序中存在，后在电子科技大学网络空间安全学院学术指导下，由 Yaklang.io 研发团队进行长达两年的迭代与改造，实现了YakVM虚拟机让语言可以脱离“宿主语言”独立运行，并与2023年完全开源。 支持目前主流操作系统：macOS，Linux，Windows。
 
 
 ## Yaklang 的优势 
+
+<table>
+<tr>
+<td> 
 
 基于CDSL概念构建的网络安全领域编程语言Yak，具备了几乎DSL所有的优势，它被设计为针对安全能力研发领域的专用编程语言，实现了常见的大多数安全能力，可以让各种各样的安全能力彼此之间“互补，融合，进化”；提高安全从业人员的生产力。
 
@@ -80,13 +86,6 @@ Yakit (https://github.com/yaklang/yakit) 是 Yaklang.io 团队官方出品的开
 
 关于Yakit的更多内容：
 
-<h1 align="left">
-  <a href="https://nuclei.projectdiscovery.io/nuclei/get-started/"><img src="static/learn-more-button.png" width="170px" alt="Learn More"></a>
-</h1>
-
-<table>
-<tr>
-<td> 
 
 ### 通过命令行来安装使用
 
