@@ -66,6 +66,10 @@ CDSL在网络安全领域提供的能力具备很多优势：
 
 4. 支持中国商用密码体系：支持SM2椭圆曲线公钥密码算法，SM4分组密码算法，SM3密码杂凑算法等
 
+<h3 align="center">
+  <img src="imgs/yaklang-fix.png" style="width: 800px" alt="yaklang-fix.png" ></a>
+</h3>
+
 ## 项目架构 
 
 ![yaklang-architecture](imgs/yaklang-arch.jpg)
