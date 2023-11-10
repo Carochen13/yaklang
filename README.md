@@ -23,8 +23,7 @@
 </p>
 
 <p align="center">
- README :book:  <a href="https://github.com/yaklang/yaklang/blob/main/README—_EN.md">English</a> •
-  
+ :book:<font color="#FF0000">语言选择：</font> <a href="https://github.com/yaklang/yaklang/blob/main/README—_EN.md">English</a> • 
   <a href="https://github.com/yaklang/yaklang/blob/main/README.md">中文</a> 
 </p>
 
