@@ -143,9 +143,11 @@ powershell (new-object System.Net.WebClient).DownloadFile('https://yaklang.oss-c
 ## 鸣谢
 
 本项目经由[电子科技大学](https://www.uestc.edu.cn)张小松([网络空间安全学院](https://www.scse.uestc.edu.cn/))教授学术指导。
+
 <h3 align="center">
-<img src="imgs/lab-logo.png" style="width: 800px"/>
+<img src="imgs/lab-logo.png" style="width: 400px"/>
 </h3>
+
 ### 基础理论学科
 
 1. Alonzo Church, "A set of postulates for the foundation of logic", Annals of Mathematics, 33(2), 346-366, 1932.
@@ -163,5 +165,5 @@ powershell (new-object System.Net.WebClient).DownloadFile('https://yaklang.oss-c
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yaklang/yakit&type=Date)](https://star-history.com/#yaklang/yakit&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=yaklang/yaklang&type=Date)](https://star-history.com/#yaklang/yaklang&Date)
 
