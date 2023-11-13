@@ -132,6 +132,8 @@ powershell (new-object System.Net.WebClient).DownloadFile('https://yaklang.oss-c
 5. [bcy2007](https://github.com/bcy2007)
 6. [naiquan](https://github.com/naiquann)
 7. [Rookie-is](https://github.com/Rookie-is)
+8. [wlingze](https://github.com/wlingze)
+
 
 ## 开源许可证
 
