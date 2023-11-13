@@ -76,7 +76,7 @@ CDSL在网络安全领域提供的能力具备很多优势：
 
 ## 快速开始
 
-### 通过 Yakit 来使用 Yaklang
+- ### 通过 Yakit 来使用 Yaklang
 
 Yakit (https://github.com/yaklang/yakit) 是 Yaklang.io 团队官方出品的开源 Yaklang IDE，它可以帮助你快速上手 Yaklang 语言。
 
@@ -85,7 +85,7 @@ Yakit (https://github.com/yaklang/yakit) 是 Yaklang.io 团队官方出品的开
 关于Yakit的更多内容可移步：[Yakit官网文档](https://yaklang.io/products/intro/)查看
 
 
-### 通过命令行来安装使用
+- ### 通过命令行来安装使用
 
 通过命令行来安装使用 Yaklang 请遵循：**https://www.yaklang.com/** 或 **https://www.yaklang.io/** 的指引，或直接执行
 
