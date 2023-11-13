@@ -154,6 +154,7 @@ This project is supervised by Professor Xiaosong Zhang from the University of El
 1. Alonzo Church, "A set of postulates for the foundation of logic", Annals of Mathematics, 33(2), 346-366, 1932.
 2. Dana Scott, Christopher Strachey, "Toward a mathematical semantics for computer languages", Proceedings of the Symposium on Computers and Automata, Microwave Research Institute Symposia Series Vol. 21, New York, 1971.
 3. Henk Barendregt, Wil Dekkers, Richard Statman, lambda Calculus with Types, Perspectives in Logic. Cambridge University Press, 2013.
+4. Braun, M., Buchwald, S., Hack, S., Leißa, R., Mallon, C., Zwinkau, A. (2013). Simple and Efficient Construction of Static Single Assignment Form. In: Jhala, R., De Bosschere, K. (eds) Compiler Construction. CC 2013. Lecture Notes in Computer Science, vol 7791. Springer, Berlin, Heidelberg.
 
 ### Engineering Technology
 
