@@ -149,13 +149,13 @@ This project is supervised by Professor Xiaosong Zhang from the University of El
 <img src="imgs/lab-logo.png" style="width: 400px"/>
 </h3>
 
-### 基础理论学科
+### Basic theoretical disciplines
 
 1. Alonzo Church, "A set of postulates for the foundation of logic", Annals of Mathematics, 33(2), 346-366, 1932.
 2. Dana Scott, Christopher Strachey, "Toward a mathematical semantics for computer languages", Proceedings of the Symposium on Computers and Automata, Microwave Research Institute Symposia Series Vol. 21, New York, 1971.
 3. Henk Barendregt, Wil Dekkers, Richard Statman, lambda Calculus with Types, Perspectives in Logic. Cambridge University Press, 2013.
 
-### 工程技术
+### Engineering Technology
 
 1. Terence Parr, "The Definitive ANTLR 4 Reference", Pragmatic Bookshelf, 2013.
 2. Terence Parr, "Simplifying Complex Networks Using Temporal Pattern Mining: The Case of AT&T's Observed Data Network", Dissertation, 1995.
