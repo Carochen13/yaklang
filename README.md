@@ -82,7 +82,7 @@ Yakit (https://github.com/yaklang/yakit) 是 Yaklang.io 团队官方出品的开
 
 同时 Yakit 也能将绝大部分安全工程师需要的核心功能图形化。他是免费的，你可以通过 [下载安装 Yakit](https://www.yaklang.com/products/download_and_install)，来开始使用 Yaklang。
 
-关于Yakit的更多内容可移步：[Yakit官网文档]((https://yaklang.io/products/intro/)查看
+关于Yakit的更多内容可移步：[Yakit官网文档](https://yaklang.io/products/intro/)查看
 
 
 ### 通过命令行来安装使用
