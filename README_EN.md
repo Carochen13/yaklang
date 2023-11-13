@@ -45,7 +45,7 @@ The runtime environment of the Yak language relies solely on YakVM, enabling the
 The Yak language initially existed as an "embedded language" within a host program. However, under the academic guidance of the School of Cyberspace Security at the University of Electronic Science and Technology of China, the Yaklang.io development team spent two years iterating and transforming the language. They successfully developed the YakVM virtual machine, allowing the language to run independently without relying on a host language. In 2023, Yak was fully open-sourced. It supports mainstream operating systems such as macOS, Linux, and Windows.
 
 
-## Yaklang 的优势
+## Advantages of Yaklang.
 
 The Yak programming language, built based on the CDSL concept in the field of network security, encompasses almost all the advantages of DSL. It is designed as a specialized programming language for the development of security capabilities, implementing most common security functionalities, and enabling various security capabilities to complement, merge, and evolve with each other. This language aims to enhance the productivity of security professionals.
 
@@ -144,8 +144,7 @@ This open source repository should only be used for personal open source and lea
 
 ## Acknowledgments
 
-本项目经由[电子科技大学](https://www.uestc.edu.cn)张小松([网络空间安全学院](https://www.scse.uestc.edu.cn/))教授学术指导。
-This project is supervised by Professor Xiaosong Zhang from the University of Electronic Science and Technology of China ([UESTC]((https://www.uestc.edu.cn))) and the School of Cybersecurity (SCSE).
+This project is supervised by Professor Xiaosong Zhang from the University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn)) and the School of Cybersecurity ([SCSE](https://www.scse.uestc.edu.cn)).
 <h3 align="center">
 <img src="imgs/lab-logo.png" style="width: 400px"/>
 </h3>
